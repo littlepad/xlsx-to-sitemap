@@ -2,6 +2,9 @@
   "name": "xlsx-to-sitemap",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "build": "node index.js sitemap.xlsx ./"
+  },
   "repository": "git@github.com:littlepad/xlsx-to-sitemap.git",
   "author": "littlepad",
   "license": "MIT",
