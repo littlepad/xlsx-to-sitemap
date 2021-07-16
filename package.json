@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:littlepad/xlsx-to-sitemap.git",
   "author": "littlepad",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
 }
